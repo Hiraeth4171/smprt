@@ -1,5 +1,7 @@
 # config
 .vscode/
+.clangd
+.env
 
 # c
 bin/
